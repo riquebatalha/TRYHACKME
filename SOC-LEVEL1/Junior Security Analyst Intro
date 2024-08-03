@@ -1,13 +1,13 @@
 Nessa sala, descobrimos qual a funcionalidade e a importância de um Junior Security Analyst. Algumas de suas características sâo;
 
-IMPORTÂNCIA
+## IMPORTÂNCIA
 
 * Monitorar e investigar alertas;
 * Configurar e gerenciar ferramentas de segurança;
 * Participação em grupo de trabalhos SOC (reuniõe);
 * Implementação de assinaturas básicas IDS (Intrusion Detection System);
 
-O que é SOC?
+## O que é SOC?
 O conceito de SOC (Seucirty Operations Center) é investigar, monitorar, prevenir e responder a incidentes em cyber 24/7.
 Equipes de operações de segurança são encarregadas de monitorar e proteger muitos ativos, como propriedade intelectual, dados de pessoal, sistemas de negócios e integridade da marca. 
 
