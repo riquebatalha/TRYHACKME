@@ -15,13 +15,20 @@ Equipes de operações de segurança são encarregadas de monitorar e proteger m
 
 A DAY OF A JUNIOR SECURITY ANALYST:
 Nesta parte, uma tela com vários IP's aparecem na tela e você deve verificar qual o IP suspeito, o site da a indicação de algumas ferramentas para a verificação de um IP malicioso, tais elas, AbuseIPDB, Cisco Talos Intelligence, entre outros...
-O IP "221.181.185.159" estava fazendo requisições 
+
+IP suspeito: 221.181.185.159, unauthorized connection attempt detected from IP address to port 22
+Analisando o IP, ele foi encontrado no database do site como um IP maliciosos.
+Após bloquear o IP {221.181.185.159} no firewall, uma flag aparece: THM{UNTIL-WE-MEET-AGAIN}
+
 
 
 <details>
 <summary>Respostas do Desafio</summary>
 
-1.  **Triage Specialist**
-2.  **MARCAR COMO COMPLETA**
+1.   **Triage Specialist**
+2.   **MARCAR COMO COMPLETA**
+3.   **flag{221.181.185.159}**
+4.   **flag{Will Griffin}**
+5.   **flag{THM{UNTIL-WE-MEET-AGAIN>**
    
 </details>
