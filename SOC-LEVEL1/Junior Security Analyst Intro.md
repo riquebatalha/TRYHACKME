@@ -1,4 +1,6 @@
+# RELATÓRIO DA SALA [Junior Security Analyst Intro](https://tryhackme.com/r/room/jrsecanalystintrouxo)
 Nessa sala, descobrimos qual a funcionalidade e a importância de um Junior Security Analyst. Algumas de suas características sâo;
+
 
 ## IMPORTÂNCIA
 
@@ -19,7 +21,7 @@ O IP "221.181.185.159" estava fazendo requisições
 
 
 
-RESPOSTAS DA SALA:
+<summary> Respostas do Desafio </summary>
 1 - Triage Specialist
 2 - MARCAR COMO COMPLETA
 
