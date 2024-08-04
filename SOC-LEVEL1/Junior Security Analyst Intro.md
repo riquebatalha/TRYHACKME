@@ -20,7 +20,7 @@ O IP "221.181.185.159" estava fazendo requisições
 
 
 
-
+<detaisl>
 <summary>Respostas do Desafio</summary>
 
 1.  **Triage Specialist**
