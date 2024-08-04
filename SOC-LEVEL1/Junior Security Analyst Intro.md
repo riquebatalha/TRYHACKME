@@ -6,7 +6,7 @@ Nessa sala, descobrimos qual a funcionalidade e a importância de um Junior Secu
 
 * Monitorar e investigar alertas;
 * Configurar e gerenciar ferramentas de segurança;
-* Participação em grupo de trabalhos SOC (reuniõe);
+* Participação em grupo de trabalhos SOC (reuniôes);
 * Implementação de assinaturas básicas IDS (Intrusion Detection System);
 
 ## O que é SOC?
