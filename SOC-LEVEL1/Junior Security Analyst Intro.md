@@ -18,11 +18,10 @@ Nesta parte, uma tela com vários IP's aparecem na tela e você deve verificar q
 O IP "221.181.185.159" estava fazendo requisições 
 
 
-
-
-<detaisl>
+<details>
 <summary>Respostas do Desafio</summary>
 
 1.  **Triage Specialist**
 2.  **MARCAR COMO COMPLETA**
+   
 </details>
