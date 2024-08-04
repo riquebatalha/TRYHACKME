@@ -29,6 +29,6 @@ Após bloquear o IP {221.181.185.159} no firewall, uma flag aparece: THM{UNTIL-W
 2.   **MARCAR COMO COMPLETA**
 3.   **flag{221.181.185.159}**
 4.   **flag{Will Griffin}**
-5.   **flag{THM{UNTIL-WE-MEET-AGAIN>**
+5.   **flag{THM{UNTIL-WE-MEET-AGAIN}}**
    
 </details>
