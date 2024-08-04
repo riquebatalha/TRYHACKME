@@ -22,6 +22,7 @@ O IP "221.181.185.159" estava fazendo requisições
 
 
 <summary> Respostas do Desafio </summary>
-1 - Triage Specialist
-2 - MARCAR COMO COMPLETA
+
+1.  **Triage Specialist**
+2.  **MARCAR COMO COMPLETA**
 </details>
