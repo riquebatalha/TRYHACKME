@@ -1,4 +1,4 @@
-# RELATÓRIO DA SALA [Junior Security Analyst Intro](https://tryhackme.com/r/room/jrsecanalystintrouxo)
+# Relatório da Sala [Junior Security Analyst Intro](https://tryhackme.com/r/room/jrsecanalystintrouxo)
 Nessa sala, descobrimos qual a funcionalidade e a importância de um Junior Security Analyst.
 
 
