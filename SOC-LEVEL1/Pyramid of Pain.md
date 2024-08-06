@@ -1,7 +1,5 @@
                                                                                   
 # Relatório da sala [Pyramid of Pain](https://tryhackme.com/r/room/pyramidofpainax):
-
-## O QUE É?
 A Pyramid of Pain é uma lista de indicadores de ataque que podem ser usados para detectar as ações dos agressores e, quando negadas, para avaliar a quantidade de "dor" que um agressor causaria.
 
 ### 1-HASHES VALUES:
