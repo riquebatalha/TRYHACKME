@@ -44,5 +44,15 @@ Táticas, Técnicas e Procedimentos – TTPs (TOUGH): A tática fornece a descri
 7.  **flag{https://tryhackme.com/}**
 8.  **flag{96.126.101.6}**
 9.  **flag{G_jugk.exe}**
+10. **flag{9}**
+11. **flag{Internet Explorer}**
+12. **flag{6}**
+13. **flag{Fuzzy Hashing}**
+14. **flag{context triggered piecewise hashes}**
+15. **flag{9}**
+16. **flag{Cobalt Strike}**
+17. **flag{THM{PYRAMIDS_COMPLETE}}**
+
+
 </details>
 
