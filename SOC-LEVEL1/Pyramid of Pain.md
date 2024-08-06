@@ -25,20 +25,17 @@ Normalmente, são softwares que o adversário traz consigo para executar uma var
 
 ### 7-TTP(TOUGH)
 Táticas, Técnicas e Procedimentos – TTPs (TOUGH): A tática fornece a descrição do comportamento, a técnica fornece mais detalhes do comportamento da perspectiva da tática, e o procedimento forneceria detalhes profundos sobre a técnica em si. Exemplo: A Tática é “Descoberta” e a técnica sendo usada é “Varredura de Serviço de Rede”.
-
-<details>
   
-<summary>REFERÊNCIAS</summary>
+### <summary>REFERÊNCIAS</summary>
 
 1 - https://gblogs.cisco.com/ca/2020/08/26/the-canadian-bacon-cisco-security-and-the-pyramid-of-pain/ </p>
 2 - https://www.sentinelone.com/blog/revisiting-the-pyramid-of-pain-leveraging-edr-data-to-improve-cyber-threat-intelligence/ </p>
 3 - https://socradar.io/re-examining-the-pyramid-of-pain-to-use-cyber-threat-intelligence-more-effectively/
 
-</details>
 
 <details>
   
-<summary>REPOSTAS</summary>
+<summary>Repostas do Desafio</summary>
 
 1.  **flag{Sales_Receipt 5606.xls}**
 2.  **flag{50.87.136.52}**
