@@ -40,7 +40,7 @@ Buscando por maneiras, entrei no diretório **/var/www/html/wp-setting.php** no 
 
 **cat /home/c0ldd/user.txt** = 1* flag descoberta
 
-A missão agora era virar root, com isso, dei um sudo -l e vi que o diretório /usr/bin/vim estava disponível para modificar criando um ```:!/bin/bash``` ele elevou os previlégios e me deixou como root da máquina, cat /root/root.txt, VAMO! descoberta a última flag do desafio.
+A missão agora era virar root, com isso, dei um **sudo -l** e vi que o diretório **/usr/bin/vim** estava disponível para modificar criando um ```:!/bin/bash``` ele elevou os previlégios e me deixou como root da máquina, **cat /root/root.txt**, VAMO! descoberta a última flag do desafio.
 
 <details>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <summary>Respostas do desafio</summary>
